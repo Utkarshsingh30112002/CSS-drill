@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+}
+div{
+    display: flex;
+    height: 300px;
+    justify-content: space-between;
+}
+span{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    color: white;
+}
+.div2{
+    align-self: center;
+}
+.div3{
+    align-self: flex-end;
+}
