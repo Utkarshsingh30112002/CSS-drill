@@ -1,0 +1,19 @@
+.container{
+    height: 40vw;
+    width: 70vw;
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    right:0;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    background-color: rgb(103, 79, 79);
+}
+.box{
+    height: 7em;
+    width: 7em;
+    background-color: black;
+}
+.box2{
+    align-self: flex-end;
+}
