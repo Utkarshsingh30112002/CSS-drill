@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+}
+.box{
+    background-color: black;
+    height: 15vw;
+    width: 15vw;
+}
+
+.box2{
+    background-color: rgb(53, 69, 69);
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+.box3{
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+.box4{
+    background-color: rgb(53, 69, 69);
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+.box5{
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
