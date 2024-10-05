@@ -1,0 +1,15 @@
+.container{
+    background-color: rgb(60, 76, 76);
+    height: 30vw;
+    width: 70vw;
+    margin: 15vw;
+    margin-bottom: 0vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.box{
+    background-color: black;
+    height: 20vw;
+    width: 20vw;
+}

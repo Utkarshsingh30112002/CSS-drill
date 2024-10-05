@@ -1,0 +1,17 @@
+.body{
+    margin: 0px;
+}
+.container{
+    background-color: aqua;
+    height: 70vw;
+    width: 35vw;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: space-between;
+}
+.box{
+    background-color: black;
+    height: 20vw;
+    width: 20vw;
+}

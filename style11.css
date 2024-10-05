@@ -1,0 +1,26 @@
+.body{
+    margin: 0;
+}
+.container{
+    background-color: aqua;
+    height: 70VW;
+    width: 40VW;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+
+}
+.outer-box{
+    background-color: rgb(66, 58, 58);
+    height: 40vw;
+    width: 25vw;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.inner-box{
+    background-color: black;
+    height: 30vw;
+    width: 20vw;
+    margin: 1vw;
+}
